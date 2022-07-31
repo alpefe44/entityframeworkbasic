@@ -1,0 +1,15 @@
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\entityframework.exe.config
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\entityframework.exe
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\entityframework.pdb
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\EntityFramework.dll
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\EntityFramework.xml
+C:\Users\efe19\Desktop\entityframework\entityframework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.csproj.AssemblyReference.cache
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.Form1.resources
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.Properties.Resources.resources
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.csproj.GenerateResource.cache
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.csproj.CoreCompileInputs.cache
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.csproj.CopyComplete
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.exe
+C:\Users\efe19\Desktop\entityframework\entityframework\obj\Debug\entityframework.pdb
